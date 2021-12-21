@@ -1,0 +1,5 @@
+discord.py
+python-dotenv
+requests
+bs4
+lxml
